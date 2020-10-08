@@ -29,8 +29,8 @@
  <li>Sonatype Nexus</li>
  </ul>
 
-<a href="linkedin.com/in/ali-ihsan-073012142" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ali-ihsan-073012142">
+<a href="www.linkedin.com/in/aliihsan13" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/aliihsan13">
 </a>
 <a href="mailto:aliihsan13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:aliihsan13@gmail.com">
